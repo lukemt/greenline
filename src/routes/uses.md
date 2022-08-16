@@ -20,7 +20,7 @@ html {
   color: #333;
     
   
-  background: url('koernerleguminosen.jpg') no-repeat center center fixed; 
+  background: url('/koernerleguminosen.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
