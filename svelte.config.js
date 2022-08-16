@@ -15,6 +15,9 @@ const config = {
 	],
 	extensions: ['.svelte', '.md'],
 	kit: {
+		paths: {
+			base: '/greenline/build'
+		},
 		prerender: {
 			default: true
 		},
